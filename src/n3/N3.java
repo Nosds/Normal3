@@ -17,6 +17,7 @@ public class N3 {
     public static void main(String[] args) {
         // TODO code application logic here
          System.out.println("hi main");
+          System.out.println("hi main 222");
     }
     
 }
